@@ -1,3 +1,7 @@
-# Minh new repo
+#
+Minh new repo
 
-learning git
+learning git advance skills
+
+
+
