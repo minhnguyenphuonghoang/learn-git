@@ -1,6 +1,6 @@
-#
-Minh new repo
+#Minh new repo
 
+readme rebase 1
 learning git advance skills
 
 fastforward merge testing:
