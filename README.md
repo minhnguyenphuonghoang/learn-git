@@ -2,6 +2,8 @@
 
 readme rebase 1
 readme rebase 2
+readme rebase 3
+
 learning git advance skills
 
 fastforward merge testing:
