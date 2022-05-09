@@ -2,8 +2,10 @@
 
 readme rebase 1
 readme rebase 2
-learning git advance skills
+readme conflict test
 
+learning git advance skills
+adding something
 fastforward merge testing:
 - commit 01
 - commit 02
