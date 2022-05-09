@@ -1,6 +1,7 @@
 #Minh new repo
 
 readme rebase 1
+readme rebase 2
 learning git advance skills
 
 fastforward merge testing:
