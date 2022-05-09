@@ -8,6 +8,7 @@ learning git advance skills
 adding something
 fastforward merge testing:
 - commit 01
+- commit 01.5
 - commit 02
 
 another commit
